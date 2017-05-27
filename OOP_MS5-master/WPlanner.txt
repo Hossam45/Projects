@@ -1,0 +1,6 @@
+O,123,Centerpiece,120.55,1,5,20
+O,345,Four course dinner,85,1,0,160
+C,456,Bridal Gown,2000,1,1,1,2017/10/10
+O,567,Chair shashes,15,1,25,160
+O,678,asd,10,1,5,10
+O,856,murat,125,1,5,2
