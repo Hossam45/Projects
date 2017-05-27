@@ -1,8 +1,0 @@
-﻿1>------ Build started: Project: OOP_MS5, Configuration: Debug Win32 ------
-1>  WPlanner.cpp
-1>c:\users\murat\desktop\oop244\files\oop_ms5-master\wplanner.cpp(92): warning C4700: uninitialized local variable 'temp' used
-1>c:\users\murat\desktop\oop244\files\oop_ms5-master\wplanner.cpp(151): warning C4715: 'ict::WPlanner::SearchItems': not all control paths return a value
-1>c:\users\murat\desktop\oop244\files\oop_ms5-master\wplanner.cpp(166): warning C4700: uninitialized local variable 'on' used
-1>  OOP_MS5.vcxproj -> C:\Users\murat\Desktop\oop244\files\OOP_MS5-master\Debug\OOP_MS5.exe
-1>  OOP_MS5.vcxproj -> C:\Users\murat\Desktop\oop244\files\OOP_MS5-master\Debug\OOP_MS5.pdb (Full PDB)
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
